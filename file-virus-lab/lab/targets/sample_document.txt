@@ -1,0 +1,23 @@
+====================================================================
+EDUCATIONAL SECURITY LAB: TECHNICAL REFERENCE NOTE
+====================================================================
+File Status: Clean (Uninfected)
+Topic: Malware Architecture & Attack Vectors (COMP 561 Chapter 1)
+
+In computer security taxonomy, a virus is distinguished from a worm primarily
+by its dependency on a host entity. A traditional file virus requires an
+existing host file or executable program to attach itself to. When the user
+transfers or executes the infected host, the virus payload is also carried.
+
+In contrast, a computer worm is a standalone, self-replicating program that
+propagates across networks independently by exploiting security flaws or weak
+configurations without requiring host file modification or human intervention.
+
+Common vectors for file virus transmission include:
+- Malicious email attachments disguised as benign documents
+- Removable physical media (e.g., infected USB drives with autorun)
+- Compromised software download portals and trojanized installers
+- Network file shares configured with permissive write permissions
+
+Defense-in-depth strategies incorporate cryptographic hash verification,
+signature scanning, heuristic behavioral analysis, and strict access controls.

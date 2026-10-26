@@ -1,0 +1,8 @@
+# Python File Virus Simulation & Antivirus Detection Lab
+# Requirements Specification
+#
+# This educational project is built strictly with the Python standard library
+# (pathlib, hashlib, argparse, dataclasses, json, datetime, unittest, tempfile, shutil).
+# No external third-party dependencies are required.
+#
+# Python Compatibility: Python >= 3.10

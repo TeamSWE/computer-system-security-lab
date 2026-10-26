@@ -1,0 +1,16 @@
+====================================================================
+EDUCATIONAL SECURITY LAB: CLEAN SAMPLE DOCUMENT
+====================================================================
+File Status: Clean (Uninfected)
+Topic: Principles of Secure Computing
+
+Computer security fundamentally relies on the CIA triad:
+1. Confidentiality: Ensuring that information is accessible only to
+   authorized individuals and systems.
+2. Integrity: Guarding the accuracy, completeness, and authenticity
+   of data by safeguarding against unauthorized modification or deletion.
+3. Availability: Ensuring authorized users have reliable and timely access
+   to critical data and system resources.
+
+This document serves as an authorized test file for controlled lab exercises.
+It contains only ordinary educational prose.

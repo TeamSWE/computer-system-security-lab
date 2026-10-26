@@ -1,0 +1,13 @@
+====================================================================
+EDUCATIONAL SECURITY LAB: STATIC INFECTION FIXTURE
+====================================================================
+File Status: Inert Simulation Fixture (Non-Executable)
+Notice: This file contains the educational simulation marker for static testing.
+It contains NO executable code, NO payloads, and CANNOT cause system harm.
+
+Security analysis systems use signature detection to locate known patterns.
+Below is the harmless simulation signature marker:
+
+[SIMULATED_INFECTION_MARKER: EDU_VIRUS_SIMULATION_MARKER_V1]
+
+End of simulation fixture.
